@@ -17,5 +17,17 @@ int main()
           printf("fuck");
         printf("\n\n");
     }
+    for(i=0;i<9;i++)
+    {
+         printf("fuck");
+          printf("fuck");
+        printf("\n\n");
+    }
+    for(i=0;i<9;i++)
+    {
+         printf("fuck");
+          printf("fuck");
+        printf("\n\n");
+    }
     return 0;
 }

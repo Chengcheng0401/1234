@@ -3,6 +3,12 @@
 
 int main()
 {
-    printf("Hello world!\n");
+    printf("666\n");
+    printf("666\n");
+    printf("666\n");
+    printf("666\n");
+    printf("666\n");
+    printf("666\n");
+    printf("fuck");
     return 0;
 }

@@ -29,5 +29,6 @@ int main()
           printf("fuck");
         printf("\n\n");
     }
+    printf("7777");
     return 0;
 }
